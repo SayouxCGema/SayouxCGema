@@ -1,15 +1,17 @@
-### Hi there 👋 my name is Gema
+### Hola 👋 soy Gema
 
 
 
--🌱 Actualmente estoy aprendiendo análisis de datos y mi objetivo es poder ayudar a las empresas en sus estrategias y proyectos. Me considero una apasionada de los datos y muy curiosa por adquirir nuevas habilidades y concimientos. Tengo experiencia en lenguaje de Python con librerias como Numpy, MatplotLib y Seaborn y Scikit-lear. También tengo conocimientos de la herramienta de visualización de Power Bi y puedo realizar análisis con lenguaje SQL en Bigquery.
+-🌱 Son una entusiasta y amante del mundo del análisis de datos. Mi objetivo es poder ayudar a las empresas en sus estrategias y proyectos. Me considero una persona curiosa por adquirir nuevas habilidades y concimientos. También me apasiona todo el mundo del marketing digital y la creación de estrategias para conversión o creación de contenido.
 
+# Contenido de Marketing
+- [Contenido para el centro médico Katarsia] (https://katarsia.com/blog/author/gema-calderon-sayoux/)
+- [Canal de Youtube - Mujeres en la Historia: Tesoros olvidados] (https://www.youtube.com/channel/UCvakiXl8cictsuZoc--CMbg)
 
--🌱 I’m currently learning data analysis and I would like to be able to help companies in the process of analyzing their projects. I consider myself to be passionate about data and very curious about gaining diverse knowledge. I am open to collaborations and job offers.
 
 
 ## Contacto/Contact:
-- [Linkedin](https://www.linkedin.com/in/gema-calderon-sayoux/)https://www.linkedin.com/in/gema-calderon-sayoux/
+- [Linkedin](https://www.linkedin.com/in/gema-calderon-sayoux/)
   
 
   

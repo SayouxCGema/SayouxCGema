@@ -2,7 +2,7 @@
 
 
 
--🌱 Son una entusiasta y amante del mundo del análisis de datos. Mi objetivo es poder ayudar a las empresas en sus estrategias y proyectos. Me considero una persona curiosa por adquirir nuevas habilidades y concimientos. También me apasiona todo el mundo del marketing digital y la creación de estrategias para conversión o creación de contenido.
+-Son una entusiasta y amante del mundo del análisis de datos. Mi objetivo es poder ayudar a las empresas en sus estrategias y proyectos. Me considero una persona curiosa por adquirir nuevas habilidades y concimientos. También me apasiona todo el mundo del marketing digital y la creación de estrategias para conversión o creación de contenido.
 
 # Contenido de Marketing
 - [Post publicados](https://katarsia.com/blog/author/gema-calderon-sayoux/)

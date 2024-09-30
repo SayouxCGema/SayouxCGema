@@ -10,7 +10,7 @@
 - Gestión de redes sociales como Facebook, Instagram y LinkedIn
 
 
-[![Mujeres en la historia](https://img.youtube.com/vi/oEB0_lBn6OQ/0.jpg)](https://www.youtube.com/watch?v=oEB0_lBn6OQ&t=3s)
+
 
 
 
@@ -18,7 +18,10 @@
 
 # Contenido de Marketing
 - [Post publicados](https://katarsia.com/blog)
-- [Canal de Youtube - Mujeres en la Historia: Tesoros olvidados](https://www.youtube.com/channel/UCvakiXl8cictsuZoc--CMbg)
+
+
+#### Canal Youtube: Mujeres en la historia
+ [![Canal Youtube: Mujeres en la historia](https://img.youtube.com/vi/oEB0_lBn6OQ/0.jpg)](https://www.youtube.com/watch?v=oEB0_lBn6OQ&t=3s)
 
 
 

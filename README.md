@@ -2,7 +2,12 @@
 
 
 
--Soy una entusiasta y amante del mundo del análisis de datos. Mi objetivo es poder ayudar a las empresas en sus estrategias y proyectos. Me considero una persona curiosa por adquirir nuevas habilidades y concimientos. También me apasiona todo el mundo del marketing digital y la creación de estrategias para conversión o creación de contenido.
+-Soy una entusiasta y amante del mundo del marketing y el análisis de datos. Mi objetivo es poder ayudar a las pequeñas y medianas empresas en sus estrategias y proyectos. Me considero una persona curiosa de adquirir nuevas habilidades y estudios. Cuento con más de 2 años de experiencia en marketing digital y SEO. Entre los trabajos realizados puedo mencionar:
+- Auditorías de páginas web para SEO
+- Creación de campañas de anuncios en Google Ads
+- Optimización de campañas
+- Análisis de resultados y reportes
+- Gestión de redes sociales como Facebook, Instagram y LinkedIn
 
 # Contenido de Marketing
 - [Post publicados](https://katarsia.com/blog)

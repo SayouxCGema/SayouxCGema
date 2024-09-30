@@ -18,6 +18,7 @@
 
 # Contenido de Marketing
 - [Post publicados](https://katarsia.com/blog)
+- [Publicaciones Instagram](https://github.com/SayouxCGema/Instagram)
 
 
 #### Canal Youtube: Mujeres en la historia

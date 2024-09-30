@@ -12,7 +12,8 @@
 # Contenido de Marketing
 - [Post publicados](https://katarsia.com/blog)
 - [Canal de Youtube - Mujeres en la Historia: Tesoros olvidados](https://www.youtube.com/channel/UCvakiXl8cictsuZoc--CMbg)
-https://www.youtube.com/watch?v=oEB0_lBn6OQ&t=3s
+[![Alt text](https://img.youtube.com/vi/oEB0_lBn6OQ&t=3s.jpg)]
+(https://www.youtube.com/watch?v=oEB0_lBn6OQ&t=3s)
 
 
 ## Contacto/Contact:

@@ -24,7 +24,7 @@ Mi compromiso constante con el aprendizaje me impulsa a estar al día con las ú
 
 
 ## Contacto/Contact:
-- [linkedin](https://www.linkedin.com/in/gema-calderon-sayoux/)
+- [Linkedin](https://www.linkedin.com/in/gema-calderon-sayoux/)
   
 
   

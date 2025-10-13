@@ -2,14 +2,17 @@
 
 
 
-Soy una profesional con 3 años de experiencia en el sector del marketing (SEO, Google Ads, Google Analytics, Google Tag Manager, Search Console) enfocada en ayudar a pequeñas y medianas empresas en mejorar sus estrategias digitales y lograr un crecimiento sostenible en el mundo digital. A lo largo de mi carrera, he desarrollado habilidades especializadas en el análisis de métricas, la optimización de campañas publicitarias, el SEO y el manejo de herramientas avanzadas para el procesamiento de datos.
+Consultora SEO en Barcelona y especialista en marketing digital.
+Ayudo a pequeñas y medianas empresas a mejorar su visibilidad online, atraer más clientes y hacer crecer su negocio de forma sostenible mediante estrategias personalizadas de **SEO**, **Google Ads** y **Analítica Web**.
 
-Otra de mis áreas es el análisis de datos, donde hago uso de librerías especializadas en Python como Matplotlib, Pandas, Seaborn, Numpy, BeautifulSoup y scikit-learn. Estas herramientas me permiten no solo recopilar y procesar grandes volúmenes de datos, sino también identificar patrones y generar informes detallados que facilitan la toma de decisiones estratégicas basadas en datos.
+Con varios años de experiencia en el sector, he trabajado en la optimización de sitios web, campañas publicitarias y análisis de rendimiento digital utilizando herramientas como Google Analytics 4, Tag Manager y Search Console.
+Mi enfoque combina la creatividad del marketing con la precisión de los datos para ofrecer resultados medibles y escalables.
 
-Mi compromiso constante con el aprendizaje me impulsa a estar al día con las últimas tendencias y tecnologías del marketing digital y análisis de datos. Esto me permite ofrecer soluciones innovadoras y adaptadas a las necesidades cambiantes del mercado, garantizando un valor añadido en cada proyecto en el que participo.
+Además, cuento con una sólida base en análisis de datos con Python, utilizando librerías como Pandas, Matplotlib, Seaborn, Numpy, BeautifulSoup y scikit-learn. Esto me permite transformar datos en información útil para optimizar estrategias digitales y tomar decisiones basadas en evidencia.
 
+🚀 Mi objetivo es seguir creciendo como freelance SEO en Barcelona, colaborando con negocios que quieran mejorar su posicionamiento en buscadores y aprovechar todo el potencial del marketing digital.
 
-
+📩 Si buscas un [consultor SEO en Barcelona](https://gemacalderonsayoux.com/es/) comprometido con los resultados, te invito a conectar conmigo o explorar mis proyectos.
 
 
 

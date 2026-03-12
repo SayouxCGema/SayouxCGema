@@ -12,14 +12,14 @@ Además, cuento con una sólida base en análisis de datos con Python, utilizand
 
 🚀 Mi objetivo es seguir creciendo como freelance SEO en Barcelona, colaborando con negocios que quieran mejorar su posicionamiento en buscadores y aprovechar todo el potencial del marketing digital.
 
-📩 Si buscas un [consultor SEO en Barcelona](https://gemacalderonsayoux.com/es/) comprometido con los resultados, te invito a conectar conmigo o explorar mis proyectos.
+📩 Si buscas un [consultor SEO en Barcelona](https://gemacalderonsayoux.com) comprometido con los resultados, te invito a conectar conmigo o explorar mis proyectos.
 
 
 
 
 
 # Contenido de Marketing
-- [Post publicados](https://katarsia.com/blog)
+- [Post publicados](https://katarsia.com/blog/)
 - [Publicaciones Instagram](https://github.com/SayouxCGema/Instagram)
 
 
